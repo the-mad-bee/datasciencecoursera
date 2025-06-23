@@ -1,0 +1,13 @@
+---
+title: "HelloWorld"
+author: "Madhumati Manjunath"
+date: "`r Sys.Date()`"
+output: rtf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## This is a markdown file
